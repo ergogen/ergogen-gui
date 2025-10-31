@@ -11,11 +11,6 @@ const Curly45: ConfigExample = {
   engine: 4.1.0
   version: 1.0.0
   author: peterjc
-units:
-  # targetting CFX keycaps
-  cx: 16.5
-  cy: 16.5
-  mg: 50
 points:
   mirror:
     ref: top_inner_sole
